@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Flight-Agency/static/css/main.58da8d93.css",
+    "main.js": "/Flight-Agency/static/js/main.2881d6fa.js",
+    "static/js/787.b2ddf3ad.chunk.js": "/Flight-Agency/static/js/787.b2ddf3ad.chunk.js",
+    "static/media/video.mp4": "/Flight-Agency/static/media/video.8c649387b85f2316bc67.mp4",
+    "static/media/trman2.jpg": "/Flight-Agency/static/media/trman2.b7303a6af6feb9a0f4cd.jpg",
+    "static/media/tr1.jpg": "/Flight-Agency/static/media/tr1.9f08e7423e2ae1810e37.jpg",
+    "static/media/tr3.jpg": "/Flight-Agency/static/media/tr3.7e7533d02503fc606803.jpg",
+    "static/media/trman3.jpg": "/Flight-Agency/static/media/trman3.753869f48ee17ecff3b8.jpg",
+    "static/media/tr2.jpg": "/Flight-Agency/static/media/tr2.b5ac6bc3dd5156ac6d83.jpg",
+    "static/media/trman1.jpg": "/Flight-Agency/static/media/trman1.456b8350a868ccfc26e5.jpg",
+    "static/media/lounge.jpeg": "/Flight-Agency/static/media/lounge.2ac6c95302ba858973b6.jpeg",
+    "static/media/plane.png": "/Flight-Agency/static/media/plane.b79ce8dd88fb9e1204ca.png",
+    "static/media/logo.png": "/Flight-Agency/static/media/logo.d011d23305d3835899b1.png",
+    "static/media/support.png": "/Flight-Agency/static/media/support.d0f2a2133334efabb504.png",
+    "index.html": "/Flight-Agency/index.html",
+    "main.58da8d93.css.map": "/Flight-Agency/static/css/main.58da8d93.css.map",
+    "main.2881d6fa.js.map": "/Flight-Agency/static/js/main.2881d6fa.js.map",
+    "787.b2ddf3ad.chunk.js.map": "/Flight-Agency/static/js/787.b2ddf3ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58da8d93.css",
+    "static/js/main.2881d6fa.js"
+  ]
+}
